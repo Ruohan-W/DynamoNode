@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "RevitAPISetup", "RevitAPISetup.shproj", "{5737DFAB-7151-4F63-90F4-9F5D1A60644F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Revit2024", "Revit2024\Revit2024.csproj", "{C574E281-3D75-41FB-9EF1-7F48743FD36D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Revit2023", "Revit2023\Revit2023.csproj", "{42DAF432-C037-4D12-9A7E-4BD54753259B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Revit2022", "Revit2022\Revit2022.csproj", "{A6D611BC-DA53-4DDE-8C03-7B1B793CB997}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Revit2021", "Revit2021\Revit2021.csproj", "{179AE2B3-45D0-4E41-8F5F-8C387EE9DE2F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C574E281-3D75-41FB-9EF1-7F48743FD36D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C574E281-3D75-41FB-9EF1-7F48743FD36D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C574E281-3D75-41FB-9EF1-7F48743FD36D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C574E281-3D75-41FB-9EF1-7F48743FD36D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42DAF432-C037-4D12-9A7E-4BD54753259B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42DAF432-C037-4D12-9A7E-4BD54753259B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42DAF432-C037-4D12-9A7E-4BD54753259B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42DAF432-C037-4D12-9A7E-4BD54753259B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6D611BC-DA53-4DDE-8C03-7B1B793CB997}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6D611BC-DA53-4DDE-8C03-7B1B793CB997}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6D611BC-DA53-4DDE-8C03-7B1B793CB997}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6D611BC-DA53-4DDE-8C03-7B1B793CB997}.Release|Any CPU.Build.0 = Release|Any CPU
+		{179AE2B3-45D0-4E41-8F5F-8C387EE9DE2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{179AE2B3-45D0-4E41-8F5F-8C387EE9DE2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{179AE2B3-45D0-4E41-8F5F-8C387EE9DE2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{179AE2B3-45D0-4E41-8F5F-8C387EE9DE2F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {571101FF-14F4-4602-93AF-C6C68E3806A0}
+	EndGlobalSection
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		RevitAPISetup.projitems*{179ae2b3-45d0-4e41-8f5f-8c387ee9de2f}*SharedItemsImports = 4
+		RevitAPISetup.projitems*{42daf432-c037-4d12-9a7e-4bd54753259b}*SharedItemsImports = 4
+		RevitAPISetup.projitems*{5737dfab-7151-4f63-90f4-9f5d1a60644f}*SharedItemsImports = 13
+		RevitAPISetup.projitems*{a6d611bc-da53-4dde-8c03-7b1b793cb997}*SharedItemsImports = 4
+		RevitAPISetup.projitems*{c574e281-3d75-41fb-9ef1-7f48743fd36d}*SharedItemsImports = 4
+	EndGlobalSection
+EndGlobal
