@@ -21,6 +21,7 @@
 
         </Grid.RowDefinitions>
         <DataGrid ItemsSource ="{Binding SpatialObjects, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"
+                  RowStyle="{StaticResource DefaultRowStyle}"
                   AutoGenerateColumns="False"
                   VerticalScrollBarVisibility="Auto"
                   HorizontalScrollBarVisibility="Hidden"

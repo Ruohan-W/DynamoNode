@@ -1,10 +1,6 @@
+C:\Users\BalajiI\currentWork\GITHUB\ishwarAECOM\RevitAPISetup\Revit2022\bin\Debug\Revit2022.dll.config
 C:\Users\BalajiI\currentWork\GITHUB\ishwarAECOM\RevitAPISetup\Revit2022\bin\Debug\Revit2022.dll
 C:\Users\BalajiI\currentWork\GITHUB\ishwarAECOM\RevitAPISetup\Revit2022\bin\Debug\Revit2022.pdb
-C:\Users\BalajiI\currentWork\GITHUB\ishwarAECOM\RevitAPISetup\Revit2022\obj\Debug\Revit2022.csproj.AssemblyReference.cache
-C:\Users\BalajiI\currentWork\GITHUB\ishwarAECOM\RevitAPISetup\Revit2022\obj\Debug\Revit2022.csproj.CoreCompileInputs.cache
-C:\Users\BalajiI\currentWork\GITHUB\ishwarAECOM\RevitAPISetup\Revit2022\obj\Debug\Revit2022.dll
-C:\Users\BalajiI\currentWork\GITHUB\ishwarAECOM\RevitAPISetup\Revit2022\obj\Debug\Revit2022.pdb
-C:\Users\BalajiI\currentWork\GITHUB\ishwarAECOM\RevitAPISetup\Revit2022\bin\Debug\Revit2022.dll.config
 C:\Users\BalajiI\currentWork\GITHUB\ishwarAECOM\RevitAPISetup\Revit2022\bin\Debug\CommonServiceLocator.dll
 C:\Users\BalajiI\currentWork\GITHUB\ishwarAECOM\RevitAPISetup\Revit2022\bin\Debug\CommunityToolkit.Mvvm.dll
 C:\Users\BalajiI\currentWork\GITHUB\ishwarAECOM\RevitAPISetup\Revit2022\bin\Debug\GalaSoft.MvvmLight.dll
@@ -32,8 +28,12 @@ C:\Users\BalajiI\currentWork\GITHUB\ishwarAECOM\RevitAPISetup\Revit2022\bin\Debu
 C:\Users\BalajiI\currentWork\GITHUB\ishwarAECOM\RevitAPISetup\Revit2022\bin\Debug\System.Numerics.Vectors.xml
 C:\Users\BalajiI\currentWork\GITHUB\ishwarAECOM\RevitAPISetup\Revit2022\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
 C:\Users\BalajiI\currentWork\GITHUB\ishwarAECOM\RevitAPISetup\Revit2022\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\BalajiI\currentWork\GITHUB\ishwarAECOM\RevitAPISetup\Revit2022\obj\Debug\Revit2022.csproj.AssemblyReference.cache
 C:\Users\BalajiI\currentWork\GITHUB\ishwarAECOM\RevitAPISetup\Revit2022\obj\Debug\SecondButtonView.baml
 C:\Users\BalajiI\currentWork\GITHUB\ishwarAECOM\RevitAPISetup\Revit2022\obj\Debug\SecondButtonView.g.cs
 C:\Users\BalajiI\currentWork\GITHUB\ishwarAECOM\RevitAPISetup\Revit2022\obj\Debug\Revit2022_MarkupCompile.cache
 C:\Users\BalajiI\currentWork\GITHUB\ishwarAECOM\RevitAPISetup\Revit2022\obj\Debug\Revit2022.g.resources
+C:\Users\BalajiI\currentWork\GITHUB\ishwarAECOM\RevitAPISetup\Revit2022\obj\Debug\Revit2022.csproj.CoreCompileInputs.cache
 C:\Users\BalajiI\currentWork\GITHUB\ishwarAECOM\RevitAPISetup\Revit2022\obj\Debug\Revit2022.csproj.CopyComplete
+C:\Users\BalajiI\currentWork\GITHUB\ishwarAECOM\RevitAPISetup\Revit2022\obj\Debug\Revit2022.dll
+C:\Users\BalajiI\currentWork\GITHUB\ishwarAECOM\RevitAPISetup\Revit2022\obj\Debug\Revit2022.pdb

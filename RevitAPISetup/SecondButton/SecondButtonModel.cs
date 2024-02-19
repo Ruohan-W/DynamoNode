@@ -22,8 +22,9 @@ namespace RevitAPISetup.SecondButton
         public ObservableCollection<SpatialObjectWrapper>CollectSpatialObjects() 
         {
             var spatialObjects = new FilteredElementCollector(Doc)
-                .OfCategory((BuiltInCategory.OST_Rooms))
+                .OfClass(typeof(SpatialElement))
                 .WhereElementIsNotElementType()
+                .Cast<SpatialElement>()
                 .Where(x => x is Room)
                 .Cast<Room>()
                 .Select(x => new SpatialObjectWrapper(x));

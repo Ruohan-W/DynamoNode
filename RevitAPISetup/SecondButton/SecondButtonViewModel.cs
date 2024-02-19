@@ -43,7 +43,7 @@ namespace RevitAPISetup.SecondButton
         {
             var selected = SpatialObjects.Where(x => x.IsSelected).ToList();
             Model.Delete(selected);
-            win.Close();
+            
         }
 
         public class SpatialObjectWrapper : INotifyPropertyChanged
@@ -53,11 +53,11 @@ namespace RevitAPISetup.SecondButton
 
         public ElementId ElementId { get; set; }
 
-        private bool _isSelected { get; set; }
+        private bool _isSelected;
         public bool IsSelected 
             {
                 get { return _isSelected; }
-                set { value = _isSelected; RaisePropertyChanged(nameof(IsSelected)); } 
+                set { _isSelected = value; RaisePropertyChanged(nameof(IsSelected)); } 
             }
 
         public SpatialObjectWrapper(Room room) 
